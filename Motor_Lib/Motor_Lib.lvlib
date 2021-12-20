@@ -19,6 +19,6 @@
 		<Item Name="PORT_ID.ctl" Type="VI" URL="../PORT_ID.ctl"/>
 	</Item>
 	<Item Name="Example" Type="Folder">
-		<Item Name="Mouse_Run.lvproj" Type="Document" URL="../Mouse_Run.lvproj"/>
+		<Item Name="Main_Run.vi" Type="VI" URL="../Main_Run.vi"/>
 	</Item>
 </Library>
